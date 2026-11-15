@@ -132,7 +132,8 @@ Windows에서는 `gradlew.bat`을 사용합니다. 이번 제출 검증은 기�
 - applicationId: `com.gleohearts.submission` (원본 설치 앱과 데이터 분리)
 - namespace: `com.example.gleo_type`
 - Run 구성: `app`, 일반 스마트폰은 모바일5탭, FEATURE_AUTOMOTIVE 기기는 CAR 경로.
-- APK: `app/build/outputs/apk/debug/app-debug.apk`. 빌드 결과 APK는 Git에 포함하지 않습니다.
+- Release APK: [다운로드](https://github.com/pparkpparkyi/GleoHearts/releases/tag/v1.0.0-submission)
+- APK 파일명: `GleoHearts_GleoHearts_release.apk`
 - 핵심 라이브러리: Kotlin2.2.10/Compose/Media3 1.11.1, Pleos Vehicle2.3.2/NaviHelper3.0.5/FusedLocation1.1.3, AndroidSVG, Maps Compose(기존 코드 보존·키 없음).
 
 Google Maps 키/서버/외부 계정은 기본 실행에 필요하지 않습니다. Maps는 이미지 기반 fallback이며 분석 전송 endpoint는 공개 사본에서 비워 자동 업로드를 비활성화했습니다. 공식 Pleos Vehicle/Navi/Gleo 기능은 실제 지원 서비스와 권한이 별도로 필요합니다. Google Automotive 이미지에 AVD 이름만 Pleos인 경우 공식 환경으로 보지 않습니다. 시스템 Status Bar/Driving View/GNB를 앱에서 재현하지 않습니다.
