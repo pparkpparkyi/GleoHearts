@@ -1,0 +1,14 @@
+<!-- Original schematic artwork, not a georeferenced map. Replace this resource with an
+     authorized PNG/WebP of the same name; never derive GPS/image coordinates from it. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="1000dp" android:height="1600dp"
+    android:viewportWidth="1000" android:viewportHeight="1600">
+    <path android:fillColor="#E6E8EF" android:pathData="M0,0H1000V1600H0Z" />
+    <path android:fillColor="#D2DDDA" android:pathData="M0,90L285,0L440,255L180,395L0,300Z M690,420L1000,340L1000,760L815,800L650,635Z M0,1030L200,930L370,1150L160,1330L0,1260Z M720,1210L1000,1130L1000,1600L800,1600L650,1430Z" />
+    <path android:strokeColor="#BCCDE1" android:strokeWidth="105" android:strokeLineCap="round" android:fillColor="#00000000"
+        android:pathData="M-120,640C180,410 210,880 470,810C720,740 650,1030 1120,950" />
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="34" android:fillColor="#00000000"
+        android:pathData="M-60,280L1060,1340 M-70,1330L1050,140 M170,-50L480,1650 M760,-50L650,1650 M-50,460L1050,360 M-50,1120L1050,1200" />
+    <path android:strokeColor="#F5F6F9" android:strokeWidth="16" android:fillColor="#00000000"
+        android:pathData="M0,140L1000,80 M0,900L1000,680 M0,1450L1000,1500 M340,0L120,1600 M950,0L900,1600" />
+</vector>

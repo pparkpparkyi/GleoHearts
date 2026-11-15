@@ -1,0 +1,86 @@
+{
+  "packageName": "com.example.gleo_type",
+  "appDescription": "A local music recommendation and playback app with explicit listening feedback.",
+  "version": "1.0",
+  "actionCalls": [
+    {
+      "type": "function",
+      "function": {
+        "name": "REQUEST_MUSIC",
+        "description": "Recommends and plays music or changes its mood using the supplied music description.",
+        "component": "service",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "operation": {
+              "type": "string",
+              "description": "The requested operation.",
+              "enum": [
+                "RECOMMEND_AND_PLAY",
+                "CHANGE_MOOD"
+              ]
+            },
+            "musicRequest": {
+              "type": "string",
+              "description": "The requested music description in the language supplied by the user."
+            }
+          },
+          "required": [
+            "operation",
+            "musicRequest"
+          ]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "CONTROL_PLAYBACK",
+        "description": "Changes the current music playback state or track.",
+        "component": "service",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "operation": {
+              "type": "string",
+              "description": "The requested operation.",
+              "enum": [
+                "PLAY",
+                "PAUSE",
+                "NEXT",
+                "PREVIOUS"
+              ]
+            }
+          },
+          "required": [
+            "operation"
+          ]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "RATE_MUSIC",
+        "description": "Records explicit positive or negative feedback for the current playback occurrence.",
+        "component": "service",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "operation": {
+              "type": "string",
+              "description": "The requested operation.",
+              "enum": [
+                "LIKE",
+                "DISLIKE"
+              ]
+            }
+          },
+          "required": [
+            "operation"
+          ]
+        }
+      }
+    }
+  ]
+}

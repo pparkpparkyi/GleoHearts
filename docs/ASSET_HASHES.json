@@ -1,0 +1,97 @@
+[
+  {
+    "path": "app/src/debug/assets/schema.json",
+    "bytes": 2386,
+    "sha256": "424fe8ea3b72a2f6c8ee0390d339c8edc9740a86f7804fe1806f458c9b6492c5"
+  },
+  {
+    "path": "app/src/main/assets/licenses/asta_sans_OFL.txt",
+    "bytes": 4389,
+    "sha256": "2448ea782a6364d571a4848c34db8a042311f44c78cf00265888db19ea10d5a4"
+  },
+  {
+    "path": "app/src/main/res/drawable/car_v10_next.xml",
+    "bytes": 262,
+    "sha256": "5e72e0cd837919982b1c1260e0c34cbcb03f0266dabb495147b0fdfae8a3021c"
+  },
+  {
+    "path": "app/src/main/res/drawable/car_v10_pause.xml",
+    "bytes": 259,
+    "sha256": "23fe48e77ea74d431e6b3e02f3a302bb8e2d4dfdf44afa16f132e832d262b2cc"
+  },
+  {
+    "path": "app/src/main/res/drawable/car_v10_play.xml",
+    "bytes": 247,
+    "sha256": "20c4fcf8deb3e69178a965d58001138dded57147151fabe4ead8cfdc59aa0903"
+  },
+  {
+    "path": "app/src/main/res/drawable/car_v10_previous.xml",
+    "bytes": 260,
+    "sha256": "ba3775dcab8f2f6b335a9cc3535572f446b512de6c07e2433c9f50dbad670aa4"
+  },
+  {
+    "path": "app/src/main/res/drawable/hearts_map_background.xml",
+    "bytes": 1338,
+    "sha256": "945fa9dfef17d9df2292144cdc9b1d7695a4cdfebb5f708e8ec438286f38ea1b"
+  },
+  {
+    "path": "app/src/main/res/drawable/ic_launcher_background.xml",
+    "bytes": 319,
+    "sha256": "e5b0bba395052b97949957aecbd9a4d5ff4de08547c7a9acd2f4fb0113039786"
+  },
+  {
+    "path": "app/src/main/res/drawable/ic_launcher_foreground.xml",
+    "bytes": 557,
+    "sha256": "ef219511df608eb88dff3726b86d384a9340feae1bada30e7de73c75c3559fcb"
+  },
+  {
+    "path": "app/src/main/res/font/asta_sans.ttf",
+    "bytes": 5771772,
+    "sha256": "f68410bf7d04deb992097758640145c72ddcf234070794237fc4994e18991c33"
+  },
+  {
+    "path": "app/src/main/res/mipmap-anydpi/ic_launcher.xml",
+    "bytes": 348,
+    "sha256": "e7c073fbec1a51a73f678b266a1cb207aa6468e3ea1504d24f43591f31d2b7c5"
+  },
+  {
+    "path": "app/src/main/res/mipmap-anydpi/ic_launcher_round.xml",
+    "bytes": 348,
+    "sha256": "e7c073fbec1a51a73f678b266a1cb207aa6468e3ea1504d24f43591f31d2b7c5"
+  },
+  {
+    "path": "app/src/main/res/values/aurora_colors.xml",
+    "bytes": 224,
+    "sha256": "7832ff2d6c5087173e5f34c84a3501edef314dd199aebf9e8aed05991476a80b"
+  },
+  {
+    "path": "app/src/main/res/values/colors.xml",
+    "bytes": 387,
+    "sha256": "31e0230ab2d96fa128a11705e85e590f3462745dc3c04bc851bc724a445921c1"
+  },
+  {
+    "path": "app/src/main/res/values/strings.xml",
+    "bytes": 73,
+    "sha256": "f5df663a2b592aa409655273d2db4a6a707704ebfc37e6c6cd9076c657062978"
+  },
+  {
+    "path": "app/src/main/res/values/themes.xml",
+    "bytes": 240,
+    "sha256": "42649b3607faebc03ef0b14c30545e9977929e3f741682fceb584101014a0ee9"
+  },
+  {
+    "path": "app/src/main/res/xml/automotive_app_desc.xml",
+    "bytes": 102,
+    "sha256": "ba433fb703161ec1629273a469c079449d8c99b9f69f08f903e008a8e0865027"
+  },
+  {
+    "path": "app/src/main/res/xml/backup_rules.xml",
+    "bytes": 490,
+    "sha256": "facaaef2162be6dd86544a819278042729ed481c38933a410651b81424da7ea7"
+  },
+  {
+    "path": "app/src/main/res/xml/data_extraction_rules.xml",
+    "bytes": 569,
+    "sha256": "940f48fb2ba4d9ec5a55671126796fefa71661c0a5d7b434dc1e9be23da41690"
+  }
+]

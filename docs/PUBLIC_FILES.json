@@ -1,0 +1,1620 @@
+{
+  "note": "Manifest excludes its own recursive hash; index additionally contains this manifest. Worktree line endings can differ from Git normalized blobs.",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 101,
+      "sha256_worktree": "ad12072563469a19c5704ffdab963d4698c6c934ffccf59f72633b4e3dcfb441"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 226,
+      "sha256_worktree": "29d8ffa45917475e614b72f2e035c2ffa443d3060da1dcec6df9c2eb1d5ad231"
+    },
+    {
+      "path": "AUTHORS.md",
+      "bytes": 966,
+      "sha256_worktree": "07e0d56580715ac35e96ae66702b690f7b4901a72eb75b0c6dd15b6fc2b74614"
+    },
+    {
+      "path": "COPYRIGHT.md",
+      "bytes": 711,
+      "sha256_worktree": "e6c2348f49591566a4a40a5aa90155c36f519a689d139777b001d20248adba62"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8089,
+      "sha256_worktree": "03e80e448eb9050a02ba7586a38aa024f286d59ed781e2a0d5adf2ca22b1573c"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1258,
+      "sha256_worktree": "a9416fb5a26ea33e7f18132440c2fb21cd506b39be83165d5234162a68472ee9"
+    },
+    {
+      "path": "app/build.gradle.kts",
+      "bytes": 3505,
+      "sha256_worktree": "893b13f70868f6055006f2eb183181f4108ec450fb7f0d896a4f942b30c4a29e"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/AAOSRecoveryIntegrationTest.kt",
+      "bytes": 7756,
+      "sha256_worktree": "b9f4144fdaf407859ae5cabd14c5dd41dfce4bdc7ac39ff26d924574409e3324"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/ActivityReplacementProbe.kt",
+      "bytes": 1848,
+      "sha256_worktree": "d392883fb102c109e6afd8fef59533f77e34ffcc4c991b8044e99c89f4473af7"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/ArchiveRepositoryTest.kt",
+      "bytes": 7570,
+      "sha256_worktree": "74883c64493e9f1d4edaaa100ce337b8aa624d3805ad246b9dc38ba386db88c3"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/AudioAssetPlaybackIntegrationTest.kt",
+      "bytes": 11540,
+      "sha256_worktree": "02218dcc9596da1e3897a84e726f70d3d34dd6dfc78bad6397920513a75dac21"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/CarMusicStep4IntegrationTest.kt",
+      "bytes": 8488,
+      "sha256_worktree": "8b1bdd44bd1edca2bf45ef9ea86ed987eaff966462ee92ee2f01fa4a937c7050"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/CarMusicVisualUiTest.kt",
+      "bytes": 3363,
+      "sha256_worktree": "5958968d36bbeea0d741588a658cebdd8093371817d9ded64c3f4490a4ef394e"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/CarV10JournalAcceptanceTest.kt",
+      "bytes": 7114,
+      "sha256_worktree": "6ced04cdd862bc524a6d5cbde32f7be4797df9205ce2ee7ce6e3d529dd4bdee9"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/CarV10LiveIntegrationTest.kt",
+      "bytes": 13941,
+      "sha256_worktree": "281c9fd4976a436daf41d85c1be828aa91c4b5606d7b1484cccd85b0240a3ef7"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/CarV10UiTest.kt",
+      "bytes": 9487,
+      "sha256_worktree": "cdafe9ac6219e68f56cf17805240f82047b55c8674fc3467008b8110f082bdfe"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/CatalogPlaybackFlowTest.kt",
+      "bytes": 11405,
+      "sha256_worktree": "479650d268cb22f284905b15a41d3f160f74b8f195eb9296f922530a151e0d42"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/ClapModelIntegrationTest.kt",
+      "bytes": 8444,
+      "sha256_worktree": "55126217c3660c4565b91d185feb1f95cc957e3db8ec1115b4285c588216d4e9"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/ClapRecommendationUiTest.kt",
+      "bytes": 7066,
+      "sha256_worktree": "edbe6fb6f52a8f173150a222216afba43cc1fa94626c6323b4643be62b1c64e4"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/ContextFusionIntegrationTest.kt",
+      "bytes": 13898,
+      "sha256_worktree": "954c8ff9a4c7d41d3a25a5a4bb6e203ccd225e6f38d34a7ec925ff12670d3374"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/ContextPipelineIntegrationTest.kt",
+      "bytes": 12427,
+      "sha256_worktree": "9870ea683b304cfd628c2009ee5af7832bbf2785c3e96ef7668c981d122b90c5"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/DrivingRecommendationIntegrationTest.kt",
+      "bytes": 5300,
+      "sha256_worktree": "d5d97912b855a9af1cdd65ae74dc0e455ddd8e3335b2b60e9a5a8efe223a5392"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/DrivingRecommendationUiTest.kt",
+      "bytes": 2667,
+      "sha256_worktree": "f9f9bd05c37202cc571b4954be290dea6d8a65c34b62a8fb01e5413bbc108f20"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/DrivingUxUiTest.kt",
+      "bytes": 3214,
+      "sha256_worktree": "cfb929a3f439618c9633432564891cf8b599e5535ecbf9dc4df14f06c80c2879"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/ExampleInstrumentedTest.kt",
+      "bytes": 692,
+      "sha256_worktree": "a1113821e7a07f36b9f9e690784d98db6a906a2ecf5b6bc64bdf869f9a819f39"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/ExternalMusicAccessProbeTest.kt",
+      "bytes": 15428,
+      "sha256_worktree": "e53dd6ac4f41851358fbcfe448497673afb7b795282c5b90d5997b2d94a50010"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/GleoPlaybackUiIntegrationTest.kt",
+      "bytes": 9747,
+      "sha256_worktree": "4a748aa0ed850018259ec7a8e5459d7d08d297dcbf5dbc1ac75d9b87eabc916b"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/GleoUiTest.kt",
+      "bytes": 7668,
+      "sha256_worktree": "bfda7d1258cfdca679ae72abb5ef7b96e0636779341547dd460a920ffdf9c468"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/GleoVoiceContractIntegrationTest.kt",
+      "bytes": 19376,
+      "sha256_worktree": "67d57c4591f49949dc4ffe61a9cf21f0431806db8f5566980c109c5503d122be"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/HeartsStep5RepositoryTest.kt",
+      "bytes": 3393,
+      "sha256_worktree": "d15ec09118ca81a6e8f5576f7b493451cb27fddb320207c2be50a262f846d7dd"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/HeartsStep5RestartTest.kt",
+      "bytes": 1525,
+      "sha256_worktree": "d29070c3a90a3dd08fc734a6269ba9d70c3e582793f5616315f831782327dddb"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/HeartsStep5UiIntegrationTest.kt",
+      "bytes": 4726,
+      "sha256_worktree": "a759aff0799a5b44143cac16227a4b62d1af120ed4eb0ff2643ac3d48087ce51"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/JamendoPlaybackIntegrationTest.kt",
+      "bytes": 12541,
+      "sha256_worktree": "6316ac6a77972a479fee65b5d978483a9dfce9cd66170c22d796d7cce0e838cf"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/LedgerPersonalizationIntegrationTest.kt",
+      "bytes": 14395,
+      "sha256_worktree": "9aa0c8498ff3f339ddf1de88f7a9a6d28696ed0d3f91d1ff733b1fad5c8d55c2"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/MapsAuthorizationDiagnosticTest.kt",
+      "bytes": 4148,
+      "sha256_worktree": "23fbd9eb5301de20064c37b7fafcda7b2cca9f5bc126ef4c722a9c8af76b7f02"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/MobileArchiveMapTest.kt",
+      "bytes": 7914,
+      "sha256_worktree": "16d6b1be306f4f8009ea9cb075275e8c2a7a6a64a9fcc4a92b080c98d4aaf9ec"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/MobileObservedHeartsReadTest.kt",
+      "bytes": 5399,
+      "sha256_worktree": "c3bea1939d1cf3118217b29e41d38ec83cfd5855f71ca23e57880136109ac5a6"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/MobileStep6UiTest.kt",
+      "bytes": 5303,
+      "sha256_worktree": "fd3862c2a18b8ab341c83034d9645de864578161610682252700d025615e7c37"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/MusicCatalogPlaybackSmokeTest.kt",
+      "bytes": 5316,
+      "sha256_worktree": "764f573b302ec1bbbdd468f13b6d16a85c26bb5c0c806416dde87c4d9dd2128c"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/MusicContextSynchronizationTest.kt",
+      "bytes": 7715,
+      "sha256_worktree": "935398ea594a89e149dddf5183cb2a20b5db31ab80c03464dc940976e1cb4626"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/MusicLibraryBrowsingTest.kt",
+      "bytes": 4305,
+      "sha256_worktree": "b70167ee5117edadd1b75e223d6ff7aebb35ba706c3f19cb1ff4570a562428bc"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/MusicVehicleIntegrationTest.kt",
+      "bytes": 9178,
+      "sha256_worktree": "7b2ce8165ee508726777a38ac80802f9e83e5d93aa77ac8a421ed1b09707116f"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/NaturalLanguageRecommendationIntegrationTest.kt",
+      "bytes": 2314,
+      "sha256_worktree": "add0e10c8f8cebdcc79262a2e47b7351ef906908ed1fad421725fcd201f4e210"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/OperationalModelInstallDeviceTest.kt",
+      "bytes": 3536,
+      "sha256_worktree": "f4f4fb8f1e89a4ba9cb58c134c0e43d2e9684131f07ea37aa35149dc28edd263"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/PinArchiveIntegrationTest.kt",
+      "bytes": 5571,
+      "sha256_worktree": "b41271c237a1ba19f26d251f24be6f235785e3bce9be86e6b8d6ff051d56a3cf"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/PlatformUxObservationTest.kt",
+      "bytes": 2459,
+      "sha256_worktree": "5293f2329893ff2e0242b6c76616640780738d0666cae9cc02255644e512d3e0"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/PleosVisualAuditTest.kt",
+      "bytes": 5345,
+      "sha256_worktree": "f8509443c29b0dd2727e9a5ccc4b84c081e0168cccd95174f41aa5cb78074e29"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/RealtimeSdkIntegrationTest.kt",
+      "bytes": 8349,
+      "sha256_worktree": "f9e4f94e1ea91e61178a3bc3388c14501fb289f1a476d557b8f38ab7eaf55a25"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/ReviewFinalRestartTest.kt",
+      "bytes": 959,
+      "sha256_worktree": "252e68d199f702b93362d8c5202bd2de22b0c969d25bde87428c2ea19c6edb2e"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/ShapeUxTest.kt",
+      "bytes": 3243,
+      "sha256_worktree": "080ac416278727b7aa5bd673e4cd6355e3f4c212381d2769e17933fc81666a78"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/StaticHeartsMapTest.kt",
+      "bytes": 6411,
+      "sha256_worktree": "484bab3da340ebc04894787ce3369bdde9eaea1dced0c6e80d3e1970c2493268"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/Step11SdkContextIntegrationTest.kt",
+      "bytes": 16500,
+      "sha256_worktree": "34b29078e0274b66b6189caae2bcaeb7840896a51e42423fb253fb556aa904aa"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/Step11bTimestampProbeTest.kt",
+      "bytes": 5053,
+      "sha256_worktree": "ab9dd80b4376637d92c61c66d9abf56c667943704e4c99448462a351cbd83737"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/Step13ArchiveAcceptanceTest.kt",
+      "bytes": 15327,
+      "sha256_worktree": "a406f3925bf31247ef8a1d06d12de2517d3ce437248640d7e6ec407f2be54941"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/Step8bFoundationIntegrationTest.kt",
+      "bytes": 6414,
+      "sha256_worktree": "9b5750bf0080ec102b276bd14155a45eced437698dcabe377ce1c26c73525bea"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/Step8cLearningRestartTest.kt",
+      "bytes": 1461,
+      "sha256_worktree": "f65bf615f28d45d4daff30c070bc92653b7e97d7e4251d1a7e0293f1f2f24bad"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/Step8cSummaryFeedbackTest.kt",
+      "bytes": 2614,
+      "sha256_worktree": "dc5f61fd78fc6de1c4ee81d6411243cfad559969899484abb360bacfe1ea3bd1"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/Step8cTransferIntegrationTest.kt",
+      "bytes": 6975,
+      "sha256_worktree": "a36fba0d1fb3bd3d0507fded2ff1b7831b9eace1f9759a74325e3b027ffe6c79"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/Step8cUiLearningTest.kt",
+      "bytes": 8824,
+      "sha256_worktree": "b957816f3f4ff04a31561d7aec4491335cb3d188828238b64cee0dfdd5dccd6a"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/Step8dLearningRestartTest.kt",
+      "bytes": 1485,
+      "sha256_worktree": "1a1210da98457e011cbc3bddace11415f77216b4601f5ff859c9e6b088958955"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/Step8dLegacyAliasUiTest.kt",
+      "bytes": 9470,
+      "sha256_worktree": "36bb97407678f197324e11a5ec4d102a0526c4237e17d8bb29c07ded94a5b408"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/Step8dModelFallbackTest.kt",
+      "bytes": 1344,
+      "sha256_worktree": "f9a3834b047fba67f98c00eef17ab450a4efd4e6a7817acf536821a788620549"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/Step8dOperationalUiTest.kt",
+      "bytes": 9412,
+      "sha256_worktree": "a0c40a90bc7988595365c94e65aff51ea975f59e3c151afaef21e45016fb763c"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/Step8dSummaryFeedbackTest.kt",
+      "bytes": 2651,
+      "sha256_worktree": "756a129fc605b8bab4d0a4b18c9c13f435f4e00364bfef32d27404db257d2baf"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/Step8dUsbPeerTest.kt",
+      "bytes": 5821,
+      "sha256_worktree": "df0e95d0e7b1f1703e943ccaa70396d80d40dc1ca3d550e463b704e62fe93443"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/Step9DemoTest.kt",
+      "bytes": 2692,
+      "sha256_worktree": "c584b6145c52e9425e49747597d8183475672b9683ae04fb3cedfbfb1ec283b3"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/Step9PersistenceTest.kt",
+      "bytes": 2277,
+      "sha256_worktree": "1c35d7471f903f4a52498cc1eb2d5ebbafa4046d3eb2a890fca1490a496c029f"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/SubmissionCatalogTest.kt",
+      "bytes": 1731,
+      "sha256_worktree": "495fb9afb1a7a36982dc470cc9eb8042605efeb8972bd1038ac8456854a35060"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/V12AndroidIntegrationTest.kt",
+      "bytes": 12318,
+      "sha256_worktree": "810c2507ad93c4c7d58e0ace174ed8b0203b2e4894097fb6eae138a8fe62b585"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/V12RealMedia3UiTest.kt",
+      "bytes": 7764,
+      "sha256_worktree": "13d36a01d4e8600a65c68ed7ac1d2c0a8367014d22fd9aacb15001d72764329e"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/V12WindowLayoutTest.kt",
+      "bytes": 8145,
+      "sha256_worktree": "bad23f227c2554f17a62267f52787fdf2022cfff984eac21ee7906f0d304f4ca"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/V13LiveRenderTest.kt",
+      "bytes": 3151,
+      "sha256_worktree": "2346e0abddb991741e299d6e329db5c388a6f46cbec149da5a354b5a285fecb1"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/V13PhotoArchiveTest.kt",
+      "bytes": 11656,
+      "sha256_worktree": "6de1731459b251256dac667317c9122807c9669d4c057eb1d1dea31c96f36113"
+    },
+    {
+      "path": "app/src/androidTest/java/com/example/gleo_type/V13UiIntegrationTest.kt",
+      "bytes": 6001,
+      "sha256_worktree": "4e190f6c2e3dd7747e2e8048f201c12fc2be1d73b822a6372f292aea8806e94d"
+    },
+    {
+      "path": "app/src/debug/AndroidManifest.xml",
+      "bytes": 1477,
+      "sha256_worktree": "086ed23c3dc8903d0cec7978eac310616ec4c8ee680c3ba822ff2e07789722e6"
+    },
+    {
+      "path": "app/src/debug/assets/schema.json",
+      "bytes": 2386,
+      "sha256_worktree": "424fe8ea3b72a2f6c8ee0390d339c8edc9740a86f7804fe1806f458c9b6492c5"
+    },
+    {
+      "path": "app/src/debug/java/com/example/gleo_type/CarV10ModelTestActivity.kt",
+      "bytes": 2098,
+      "sha256_worktree": "74aab178a30ffff7e538d319db8a9f8080e18c4e523a041cbfca934d57982daf"
+    },
+    {
+      "path": "app/src/debug/java/com/example/gleo_type/CarV10TestActivity.kt",
+      "bytes": 3227,
+      "sha256_worktree": "fb041506040d687109e63f53131b5ea30e387f746501224be4a2ba101715fca2"
+    },
+    {
+      "path": "app/src/debug/java/com/example/gleo_type/PhotoFixtureProvider.kt",
+      "bytes": 1539,
+      "sha256_worktree": "df9c574d7b7d7bd1d4d2ae09fbce7c78b90f18bb4bdc63f3502531636f916611"
+    },
+    {
+      "path": "app/src/debug/java/com/example/gleo_type/Step9DemoActivity.kt",
+      "bytes": 8984,
+      "sha256_worktree": "934e5fba96d38a5be8d1f726bcea6942f36f8cf43420b29b14005ff89c1ca17f"
+    },
+    {
+      "path": "app/src/debug/java/com/example/gleo_type/context/GleoContractProbeReceiver.kt",
+      "bytes": 757,
+      "sha256_worktree": "647fafb0848a8dfa797302e59180fa6295fe33fb0499449cdf220b8962c2ae96"
+    },
+    {
+      "path": "app/src/debug/java/com/example/gleo_type/music/RegistryPlaybackTestService.kt",
+      "bytes": 992,
+      "sha256_worktree": "92d61a1e0ab3ada4261ade95be98e5006210b07f43f666ed4d7b230cfc4a6ffd"
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "bytes": 9663,
+      "sha256_worktree": "ef688a7b2fdddf22b6caf8c33360e967fa050fa706520e7bd801c665cada4cc2"
+    },
+    {
+      "path": "app/src/main/assets/licenses/asta_sans_OFL.txt",
+      "bytes": 4389,
+      "sha256_worktree": "2448ea782a6364d571a4848c34db8a042311f44c78cf00265888db19ea10d5a4"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/AppContainer.kt",
+      "bytes": 11335,
+      "sha256_worktree": "975c67f71518c3b85a411c173099d6b261bb56d4a21e99517d716a631e0074b5"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/MainActivity.kt",
+      "bytes": 26569,
+      "sha256_worktree": "44ceae156323b04bd63073baaf0f5754816b950198e6fe6bed2540519813a743"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/context/CarV12VoiceStatus.kt",
+      "bytes": 2130,
+      "sha256_worktree": "dde4b0b62fc38ddee4249b6bfb03ea92303c1d2c30abd9717bc257149f8d3645"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/context/CausalMediaItem.kt",
+      "bytes": 836,
+      "sha256_worktree": "8094830579f9803084bbb323e1adb182ed2bdf2c943a43e16b4ccb05a73ac869"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/context/ContextPipeline.kt",
+      "bytes": 9288,
+      "sha256_worktree": "9fa5f4e04cbe7482e6595f7d36fe8a782c16ca0d0a597cae3235048a61435890"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/context/ContextSnapshot.kt",
+      "bytes": 16169,
+      "sha256_worktree": "53bee8eb1c32a929a3c998c3498184560824bf7566aae632bd348d9ee235e0a5"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/context/CuratedMusicTextEncoder.kt",
+      "bytes": 2043,
+      "sha256_worktree": "b5e6dfb3f19b74124b3bdb9c1e1f01a627eeb682ff59fe1800a37d4f720293e6"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/context/GleoVoiceContract.kt",
+      "bytes": 3861,
+      "sha256_worktree": "19a0c1db8c1c7c5d62f38e3f02fb1822832be7a9b24bfefcc866392a3a2093e7"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/context/KoreanMusicIntent.kt",
+      "bytes": 3394,
+      "sha256_worktree": "da13b82b67bfff871dbd013a2c9a1f4c23558f07d827353ea4d8b139e9361d67"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/context/LocalHeartsCommand.kt",
+      "bytes": 379,
+      "sha256_worktree": "a88af879ecc682836e1f421833ac9c0fb964f0b00ef6b9c6e0816c629fc694d7"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/context/Media3VoicePlaybackPort.kt",
+      "bytes": 3135,
+      "sha256_worktree": "6be0374d3041690ad79ae981a2ef3c57619d16804400961d12c101f491ae05f5"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/context/PipelineContracts.kt",
+      "bytes": 3743,
+      "sha256_worktree": "4b10e2f759b27b08ea3a6424b9c16698062621e79f0edd1891b4e958b09f5cb3"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/context/PipelineLedger.kt",
+      "bytes": 7675,
+      "sha256_worktree": "664162540254d93d78ecad55ae2bf4c1d27643fa29a8ad93704bde3a0a1f35df"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/context/UiPersonalization.kt",
+      "bytes": 5175,
+      "sha256_worktree": "0b791ac4255cd2ad25648d9a1da7594f2f1f88b9f5edc6193b56ecc49c218eea"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/context/VoiceExecutionCoordinator.kt",
+      "bytes": 8848,
+      "sha256_worktree": "cd6b3d263651065b08f0c116bae9301aad35ae05c3e89b5667549a40242addb3"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/core/DriveSessionManager.kt",
+      "bytes": 485,
+      "sha256_worktree": "090e00c557aaeccc25d3d51f2e3683a2692021f077e20efb9d0d5bfe0f633f1b"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/core/EventDto.kt",
+      "bytes": 2810,
+      "sha256_worktree": "a5245e690b08a4f3e906455cecd1654acb74bee03342336eae1174af2750547f"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/core/EventFactory.kt",
+      "bytes": 1897,
+      "sha256_worktree": "424169f5a8403b033856972995730471347ec67fd6011b9c8fe3c65303b590fb"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/core/EventLabel.kt",
+      "bytes": 2473,
+      "sha256_worktree": "81b1bb56f99a5c02c8bfab3866ae94199de09fc197ffd429d2fdc873ad047e76"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/core/EventObservation.kt",
+      "bytes": 1334,
+      "sha256_worktree": "74a9e7fc575d480dd0ebcf99c08e4296f81df789c7b72b4ca0ed80a264c81c6a"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/core/EventThrottle.kt",
+      "bytes": 1563,
+      "sha256_worktree": "4eebd7b64e10ded7cb32d7210fc7d963dfbc94546399a7c6dcbef07fba0377d0"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/core/LocalUserIdentity.kt",
+      "bytes": 1246,
+      "sha256_worktree": "f87d030f19e0d86029dec440dc3e2d9d8e2a1036bb691203807c9c80d5d9c2c6"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/format/EventValueFormat.kt",
+      "bytes": 2371,
+      "sha256_worktree": "e0d2ee9140d3c584c4436df6c505fdaec138b7b957754f388e11b736bf767700"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/json/EventJsonSerializer.kt",
+      "bytes": 7160,
+      "sha256_worktree": "0b85d43a385fdff4c82fe3ab867ba883807d8186a0e9fb6712a515060563fea8"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/json/JsonWriter.kt",
+      "bytes": 3217,
+      "sha256_worktree": "99b3b12bb5fae8ac39f03773f68245ac720f9826ae186275642e6ac30f8a7a34"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/location/LocationDto.kt",
+      "bytes": 222,
+      "sha256_worktree": "4a7f1f038716e2c8dd31c8f0caccc4cc411bb81a6af4c7d9f037af7c00588f2b"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/location/LocationEventMapper.kt",
+      "bytes": 2014,
+      "sha256_worktree": "4e3dfe80199bdc35f2b07be345662a86b10095f66ff952c8675b0f6808f3684e"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/music/ListeningTracker.kt",
+      "bytes": 9722,
+      "sha256_worktree": "7389c784e1932c8694bc67b6e78b8166b340d80bc7c44178ed300d3de2d640d0"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/music/MusicDtos.kt",
+      "bytes": 1160,
+      "sha256_worktree": "8a625ceb008bc4aef42eb2bb857568eb2d9cf511f9a9ea7e17242620c41d2a5f"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/music/MusicEventMapper.kt",
+      "bytes": 3260,
+      "sha256_worktree": "98cc82039a4f7d089cf76d2a86d2410965d43d1a1b19523dd43d613ec421add8"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/music/MusicState.kt",
+      "bytes": 2802,
+      "sha256_worktree": "e4cc41821fa4b95b33fe13f9be2eae7785e023748b8f08fec0ec02c318469c3c"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/music/PlaybackSessions.kt",
+      "bytes": 1697,
+      "sha256_worktree": "4fb88a04109d087e638131e7377f5e688a1c487fd49349d2570d8375b0006924"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/navigation/NaviEventSource.kt",
+      "bytes": 7595,
+      "sha256_worktree": "b1ea6bd6bca46dbcfdf9f89954a1cf5c1b36233af9e1d3423ea60dd732aadbc7"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/navigation/NavigationDtos.kt",
+      "bytes": 1579,
+      "sha256_worktree": "9c799a5d0ddcccb16b0cc3f205e84ac5e8b5daa8610a3cd952611d20442480dc"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/navigation/NavigationEventMapper.kt",
+      "bytes": 4127,
+      "sha256_worktree": "fb8d07af87b1a60e846db29f9e69eb04af5f7c819a561e0a0d87661310be1c8e"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/send/EventPublisher.kt",
+      "bytes": 2509,
+      "sha256_worktree": "bcbf42698fdd0ae4cac5c33af443f1eb45fa840b2651de41cb55592af76d079b"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/send/EventSender.kt",
+      "bytes": 858,
+      "sha256_worktree": "58b473dbf6f3e324a3689b1b8f0650ee75d2f46b6be53ef6caa0068487a78c88"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/send/JsonlEventSender.kt",
+      "bytes": 4002,
+      "sha256_worktree": "802a72a87c49574d9da87110293a60be7abf8bf4101e520d681658d0b4861138"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/send/MockEventSender.kt",
+      "bytes": 3195,
+      "sha256_worktree": "c3875f0b9f8a139a1df4c4ac8565835fb47e5b163027af0a5bc5c89d37ef2943"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/vehicle/SpeedSampleRecorder.kt",
+      "bytes": 635,
+      "sha256_worktree": "ee9744193c60e4308db2750b3048cd7e80c1206a1957d95ac35e86dba001ea5c"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/vehicle/SpeedTimestampValidator.kt",
+      "bytes": 3474,
+      "sha256_worktree": "78d1a75abfb957cfb5ebb59d010febdb133b26213751f832009453768f2fb927"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/vehicle/VehicleDtos.kt",
+      "bytes": 1812,
+      "sha256_worktree": "3e73c2f696627b374cd6c566af305460d1e9e332ae291d5f081190702cef7e2b"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/vehicle/VehicleEventMapper.kt",
+      "bytes": 7411,
+      "sha256_worktree": "2110107ab5da749619c1f10f2818373790c3723d80861caa62d3687b5ab5af7c"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/event/vehicle/VehicleEventSource.kt",
+      "bytes": 11312,
+      "sha256_worktree": "a172576f716f4da55a789fbabfa62f2dc74822ee66b09867fe9ac2a485eb3b62"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/internalai/ContextContributionAudit.kt",
+      "bytes": 2362,
+      "sha256_worktree": "247c58f783741686acba0883c3a7dedff4a9d6a9d66377212cabcb626166ab48"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/internalai/LedgerExpressionEvidence.kt",
+      "bytes": 5550,
+      "sha256_worktree": "143f4d911d82b0b6a13ef3f3e9666a9b28bc16d0fe3784169357fe8f753ae982"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/internalai/ProactiveContextPlanner.kt",
+      "bytes": 5877,
+      "sha256_worktree": "d0b7d94115250ef9f3c1b1d151da95962952c46f422dfc628ee3e76edbf02e2b"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/internalai/UserExpressionEngine.kt",
+      "bytes": 5651,
+      "sha256_worktree": "39444e1cdf3984de792d85c27391bb02c9b9bba16fda0c157a0094a6407b8bef"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/location/FusedLocationMonitor.kt",
+      "bytes": 3223,
+      "sha256_worktree": "bf7805833f5a931442dbb26b747e646d80131bac0c33151961ed2f40ccbb8cbb"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/music/AndroidAudioAssetCatalog.kt",
+      "bytes": 2627,
+      "sha256_worktree": "0804c1ff34a29be77b16f8c3f0cae6d9840af4eecbd6d84d66b423d89d352e3b"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/music/AudioAssetRegistry.kt",
+      "bytes": 5520,
+      "sha256_worktree": "977ab4960d95aa8738c4913764253558726e81fdcaf6f7b5b1042b127b22847c"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/music/JamendoResearchCatalog.kt",
+      "bytes": 2004,
+      "sha256_worktree": "1066a9b47cda73bab31e770a091109e3e4fa0f2885aca3426ddb747c32ef1e4c"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/music/MusicPlaybackService.kt",
+      "bytes": 33196,
+      "sha256_worktree": "557feb22e8af1fbf149035c712fc05274a1e16732c4f77f45c97001fcc80df9d"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/music/MusicTestActivity.kt",
+      "bytes": 15844,
+      "sha256_worktree": "daa81304f8e0f2edac0bf16742d629edd1f52c205ebe450ff334a5e5349cd66e"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/navi/NaviMonitor.kt",
+      "bytes": 42586,
+      "sha256_worktree": "7ba89d747bdd82f7846e82c2a9dbac31b4b31013fe2849b9a7f0d4b3ab1b64b4"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/realtime/DrivingContextProcessor.kt",
+      "bytes": 5528,
+      "sha256_worktree": "09eb4c0de4a88c35866f3fc2d7c16555df155ddbeda31007e4179528581bbb24"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/realtime/MusicContextRuntime.kt",
+      "bytes": 4270,
+      "sha256_worktree": "2663b1b6f7a39874233bac1e88028e5ca671320bd4e631141f2e2307d241db10"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/realtime/MusicContextSynchronizer.kt",
+      "bytes": 545,
+      "sha256_worktree": "74a4f8a6bd3838fe28b214e5154fce5d788d324e2ba086ea2f7fb21b113fd369"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/realtime/PlaybackContextAggregator.kt",
+      "bytes": 10790,
+      "sha256_worktree": "cbe5e33e7a09ece5e1a921b5dd17fc8319b97212d1cdc3dc7dfab8442fad93f3"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/realtime/RealtimeEventBuffer.kt",
+      "bytes": 8494,
+      "sha256_worktree": "12f6eb14fe136eed5c195ded1c3e923919de4ca72200241e3b149f1891054326"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/realtime/RealtimePipeline.kt",
+      "bytes": 5709,
+      "sha256_worktree": "72f712276731694e521e3f72b62f38ccb48df31cb755a5f9d148e86f26a57cf8"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/recommendation/ClapRecommendationEngine.kt",
+      "bytes": 5744,
+      "sha256_worktree": "69f1965ebe3e247789e1f2596250538971f7aa3d574558c73243c2d8d727e2fe"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/recommendation/ContextContributionEvidence.kt",
+      "bytes": 4181,
+      "sha256_worktree": "fc26ac0c23c4d1ac5540e553f74a7fa09013b5ee05fc5dd928c0eb227aeae734"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/recommendation/ContextFusionRanking.kt",
+      "bytes": 11684,
+      "sha256_worktree": "07e23a36bcd8acd84a2dc9dd82e729acac8bde80d6a408b5dbe2cf6ccbe62028"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/recommendation/DrivingContextProvider.kt",
+      "bytes": 5510,
+      "sha256_worktree": "537fb2ec7535faa4cf7440ffa118b6887b2dbb73fced5833c68990457016a554"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/recommendation/DrivingDecisionJson.kt",
+      "bytes": 3059,
+      "sha256_worktree": "ba3fc9d0013b5119fd2ef26c2ae5e811b436edf78b95014124356af2d35a6a67"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/recommendation/DrivingRecommendationEngine.kt",
+      "bytes": 3065,
+      "sha256_worktree": "6c6ed2716cc43ac19a7aca948a2f52e8e57356b9a376848e3ea11b84183cf866"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/recommendation/ExperienceCaseRepository.kt",
+      "bytes": 11300,
+      "sha256_worktree": "19441e0a69dbe26179ce5c3f458188dabaf69696243c5edd487d652c665d0aec"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/recommendation/LedgerProfileFeedback.kt",
+      "bytes": 2656,
+      "sha256_worktree": "23b31cd31b316d6b8a8a6c4f031e81af6be505d14cba7a3370791dd17c85fcc5"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/recommendation/NaturalLanguageMusicRequest.kt",
+      "bytes": 4384,
+      "sha256_worktree": "5f5ae864cf14e365404cea1ef3f6001971ffe0acdc2829fb2285bcc2a35b5b17"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/recommendation/OperationalModelInstaller.kt",
+      "bytes": 4072,
+      "sha256_worktree": "d11a674dab4bb3ebc0cc977b75be1b244266ac56be804afe37a19c0bfdf08b94"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/recommendation/OperationalRecommendationRuntime.kt",
+      "bytes": 2559,
+      "sha256_worktree": "b60b692f7a3676d7ab65b1a180b392aa61813a2971f1c758d5c8336305b3ffff"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/recommendation/PersonalSemanticMemory.kt",
+      "bytes": 1312,
+      "sha256_worktree": "52247e3dae413617afc51500091abe945713c470468002e9e09f8c897cb15aef"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/recommendation/PlaybackMappingVerifier.kt",
+      "bytes": 1465,
+      "sha256_worktree": "6e327f178c20cfbd5657145d34b9a88af1ad791230cbc55bc258142c9ca5ec45"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/recommendation/ProactiveSuggestionPolicy.kt",
+      "bytes": 1902,
+      "sha256_worktree": "1d568b1f54ec16891c4d96ee0c40c1e75b6eb277afaeae6cd2c528d2d39af589"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/recommendation/RecommendationModelAdapter.kt",
+      "bytes": 28676,
+      "sha256_worktree": "c2ff1b58b166347ed0da6b94a58d17dabfc26f66e04d207c85c2889655b6a641"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/sync/ArchiveSyncContract.kt",
+      "bytes": 3308,
+      "sha256_worktree": "df4ad15183ab2a0dbc5da9fa68bc2d0255933eb5a810cc070060aa20e0351148"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/sync/ArchiveSyncProjection.kt",
+      "bytes": 2013,
+      "sha256_worktree": "6dd491fe58fd7486b828eeaebc730a5e0c76490f35ef08310b55b4f254598255"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/sync/DurableReviewSync.kt",
+      "bytes": 8734,
+      "sha256_worktree": "4a3e6f5fff47f41e459abac299a9f0a21cecf31d41a22e673641575a9e39545c"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/sync/ReceivedDriveHistory.kt",
+      "bytes": 625,
+      "sha256_worktree": "cabc35d8f4dfe8485e34526a7b0aa2fa86173d4d021f38daed0e4863e690b89c"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/sync/ReviewBundleTransfer.kt",
+      "bytes": 5994,
+      "sha256_worktree": "a1d24a3123d29f90586faba29c921d08a06c042afea1f3b7ba6e2e32e87b6d0d"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/sync/ReviewDevicePairing.kt",
+      "bytes": 3166,
+      "sha256_worktree": "98c014d77b298593981e7fb221a0b0681464a5da5f143244a82160c9300b0182"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/sync/ReviewFileTransfer.kt",
+      "bytes": 3570,
+      "sha256_worktree": "b943a97c934b914f9a5e597bc71f8b7ba5937b547d3740287d386cc117aebffb"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/sync/ReviewSyncBundle.kt",
+      "bytes": 7445,
+      "sha256_worktree": "fe6df5f99cd4402d41aea09ff0e2d3fddf9abc6f3450d6fae71eef15f7c3b29f"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/sync/SyncDurability.kt",
+      "bytes": 3740,
+      "sha256_worktree": "5be3af3ddf064575487709080ee26aa4b7fb7eb7b17888f7084dae5532bee203"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/sync/security/AndroidPeerKeyProtector.kt",
+      "bytes": 2689,
+      "sha256_worktree": "26c682a2b59f0be9ea34dd1e20a484c1815ff065608285569851aa6bc55d51d4"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/sync/security/FramedReviewTransport.kt",
+      "bytes": 2525,
+      "sha256_worktree": "45b330d3e499c68f4acc1f5f5ce5350b60dfa4640d069cea738281b998fea8a6"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/sync/security/PeerKeyVault.kt",
+      "bytes": 5773,
+      "sha256_worktree": "b83db8dc6f4879a4fab079928a83ada21d67055558ef54a63f4bdf6e23d8facb"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/sync/security/PersistentReviewPairing.kt",
+      "bytes": 3640,
+      "sha256_worktree": "f603aec040947f2396ecfa9a393d946d3e161f4d9da77fed1ca92f1679976377"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/ArchiveModels.kt",
+      "bytes": 5463,
+      "sha256_worktree": "57663e73b4cd11a4b9c62b727c75a51395d113efd07334b6893f2aa1731607ab"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/ArchivePhotoStore.kt",
+      "bytes": 4643,
+      "sha256_worktree": "c87116fb280331550b5753bc369283f526157233881444e0796d47b839f5ae14"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/ArchivePhotoUi.kt",
+      "bytes": 7880,
+      "sha256_worktree": "8ce5607a0026a920e54d3944eec13a9fa0e95779c34452435d558b9bd04a0c12"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/ArchivePhotoViewModel.kt",
+      "bytes": 2898,
+      "sha256_worktree": "6fa10991eac1644798daea97f1b5f696be6aa4b5f31354360c9b26d249df5c6c"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/ArchiveRepositories.kt",
+      "bytes": 22351,
+      "sha256_worktree": "93ac47a55dbabfacfd4392ae1e8b831b8e01a41371502fde1c88f242915039c9"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/AuroraDesign.kt",
+      "bytes": 12799,
+      "sha256_worktree": "a0964c4169b9403adbc4a9825e379ed3313bc9f0299e5f3d4b4a8c4bfd5e6c34"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/CarMusicData.kt",
+      "bytes": 3681,
+      "sha256_worktree": "17e011e17a2096be87fdfdb2447a7a862d50317c1bad5175139c0f5065693ee1"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/CarMusicPresentationRepository.kt",
+      "bytes": 5845,
+      "sha256_worktree": "a7deef5cbabf890a5b5a925cb3f788503caf098ecca1b6cf6bfe7f3809303098"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/CarV10Design.kt",
+      "bytes": 1333,
+      "sha256_worktree": "0672de2be514ff93634a8af670f6d415295138257774104672fa0dea2fc477dd"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/CarV10LivePlayer.kt",
+      "bytes": 7771,
+      "sha256_worktree": "e85f28ce2729d1c59989f07a4808a309e58fd570ee46dbe8b6af77482975067f"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/CarV10ReviewDraft.kt",
+      "bytes": 3523,
+      "sha256_worktree": "ada79352c5b4563a157f2ee0bcd8b4640adab0fa81fb381eefb8965310dfd223"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/CarV10Screens.kt",
+      "bytes": 21514,
+      "sha256_worktree": "4d091bf351ddcc2e5236043f681fb3e109acdf0e20e2548cf22e1e550637b543"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/CarV10StateAdapter.kt",
+      "bytes": 2523,
+      "sha256_worktree": "b863ec2bd48488a38fffab8e4dd2a204505cbc5d6411dfcef6f1be13978f653c"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/ContextDiagnostics.kt",
+      "bytes": 2887,
+      "sha256_worktree": "b3aeb2710ddb1658c88448160b7427346d4ff415806f3d026526fad52431f7f4"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/DrivingUx.kt",
+      "bytes": 4066,
+      "sha256_worktree": "ca1ace7b38540c4323f04651066b8f5a2bb43c7317b9313c2210474ad5acba89"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/FrozenContextReason.kt",
+      "bytes": 2868,
+      "sha256_worktree": "ed0586eee11052f1a3bf810f43ef5aa78294fa098ab2b248d74f5958279df627"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/GleoApp.kt",
+      "bytes": 74396,
+      "sha256_worktree": "bf02628023c6bb85db1573aec3e78e183db312135687f64bbf5857c017efa2ba"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/HeartMapProjection.kt",
+      "bytes": 763,
+      "sha256_worktree": "425447f49c33918bb4136d2ee38a6c2440b7ffa169d351381e5b76c47fed0e90"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/HeartsReviewIntegration.kt",
+      "bytes": 3070,
+      "sha256_worktree": "03087f4957ab6b8aa8b2635165a524d4fc883ed1530f6b879f0529d9b5dc5c68"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/MediaPlaybackConnection.kt",
+      "bytes": 12992,
+      "sha256_worktree": "89fc9db2c5611fc4d7b9d76992a57869c7a1da70cfe9896b49f6ce79130d7afd"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/MobileArchiveHome.kt",
+      "bytes": 17137,
+      "sha256_worktree": "f55335ac753e0731bd2b687c110db06084cfe428b797a955fb086b8bed1a8849"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/MusicPlanViewModel.kt",
+      "bytes": 1501,
+      "sha256_worktree": "ef74e21de762bf0a045860c7cae4165d0a942a7ed07611d83c2cb1e69f558eea"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/PlannedMusicRepository.kt",
+      "bytes": 2933,
+      "sha256_worktree": "caeab9b59dbbdb31db8cd903846993db95b335654473485d72b65e963b70be23"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/PlannedMusicUi.kt",
+      "bytes": 4201,
+      "sha256_worktree": "62a8ef0b35d1fe20806a83ccf47c323f7da0ce1036c42760cb5c21a91f8f0ecf"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/ReceivedReviewPanel.kt",
+      "bytes": 1812,
+      "sha256_worktree": "ed21e9f5f8fc668cbb9f5132792ca6f1d216212617a0b053e0f3473d6ba7f3af"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/RecommendationExperience.kt",
+      "bytes": 3616,
+      "sha256_worktree": "1cca6e746689103942d5753d89962a24c8298718341279c3c934299db47f59ce"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/RecommendationFeedback.kt",
+      "bytes": 4163,
+      "sha256_worktree": "44dec87287390c9e392d4cf09084b1dc2ebecc1a4ef770b941fae5a15f0758c9"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/RecommendationHistory.kt",
+      "bytes": 5921,
+      "sha256_worktree": "670ff93dd9cc32875e9dde0c824ef63ad6ad28d66eaee3adceedfc6d79476a89"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/RecommendationPanel.kt",
+      "bytes": 19633,
+      "sha256_worktree": "3612dfef776ecfe47698596f03404210f006c29fd755900c1421c65ca6428c3b"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/ReviewFinalDesign.kt",
+      "bytes": 7127,
+      "sha256_worktree": "b11affc7ac6cba5975cde699157e33f92b9e0827044ca1954bf40b5132087740"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/RuntimeHearts.kt",
+      "bytes": 3055,
+      "sha256_worktree": "4c276cf2df1d70781bd457771d2157fc15e3e3ed61fc9a916a7dd5bc17356a4e"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/StaticHeartsMap.kt",
+      "bytes": 5024,
+      "sha256_worktree": "4b9581070f90a65ff4ce421515afda7e3004c76a92327247db5b7f571f629bf5"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/SubmissionVector.kt",
+      "bytes": 993,
+      "sha256_worktree": "43ad305398b012dafdaaecdacff495e02d2e04b967614523069991b1c30dc63c"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/V12Components.kt",
+      "bytes": 34754,
+      "sha256_worktree": "cacc1e2eb731d0628b8463b6f18b8348b34c46a35b058df4de93483008bfd515"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/V13Design.kt",
+      "bytes": 2840,
+      "sha256_worktree": "582eae7692ee88227dfff61841892f393d062c1e64625eb60274d447a664ee43"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/app/V13LiveIntegration.kt",
+      "bytes": 6038,
+      "sha256_worktree": "ec36d5942d925b729efdd1418d5db791cdba2878314c8fd90ffee422e569cb1f"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/gleohearts/GleoArtwork.kt",
+      "bytes": 2635,
+      "sha256_worktree": "b1dfa88a7302e74f7d996444fd11fe320194ffdbb3d089bb13b2f6f6ea9ab75a"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/gleohearts/GleoCarUi.kt",
+      "bytes": 12999,
+      "sha256_worktree": "bc17d6eb98ccbc13df189d068341e9a5e0fec1705636be01dc1520fb9081468e"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/gleohearts/GleoMobileUi.kt",
+      "bytes": 23620,
+      "sha256_worktree": "d2692c29b2f3983b6462ba7acb57b745589d17cc4e92bf83825c22c69a376a97"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/gleohearts/GleoPreviews.kt",
+      "bytes": 2420,
+      "sha256_worktree": "5b37e8970be0397c7fa504fd0c47bab81f1cb601b1062a982c1e17a523bccaf3"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/gleohearts/GleoTheme.kt",
+      "bytes": 3766,
+      "sha256_worktree": "1770c7a0a79f59debde61ef8c7f71c559f9ae4e51b223df42c8d728ca154ef1b"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/gleohearts/GleoUiContracts.kt",
+      "bytes": 4989,
+      "sha256_worktree": "5c881a61715894571dc814d3cbac823a5d36445fe0c114b66aba6e6a13b2fe35"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/theme/Color.kt",
+      "bytes": 295,
+      "sha256_worktree": "96f22c2b74c01eab8516f3dc46c22c20910f8a209fc52c74554dd485687254ad"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/theme/Theme.kt",
+      "bytes": 1725,
+      "sha256_worktree": "73ba3379d55ce23e53fd681e4c240f4016657b8f61ad6cda4e9bf39449cdfa52"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/ui/theme/Type.kt",
+      "bytes": 1023,
+      "sha256_worktree": "8156aa1b9d72085d445f84106d1f9689dd98c1f4c0f582aae31865080feeb5f1"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/vehicle/AAOSVehicleMonitor.kt",
+      "bytes": 12644,
+      "sha256_worktree": "79651c825ed1ecb3612145725ee775eba651c8107aa16aa68f7c01bc991f3abc"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/vehicle/AreaEventSubscriptions.kt",
+      "bytes": 12776,
+      "sha256_worktree": "fe65cb94d47c974d19fe3f96e5788ee57ce979eb942569a34f42ef1d9db9865a"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/vehicle/CarConnectionSupervisor.kt",
+      "bytes": 5279,
+      "sha256_worktree": "50be59c47ec4cb1ebd98572e66888ad2eacb36a9de9e31ca2d6b1bd5e1a334d3"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/vehicle/EventStore.kt",
+      "bytes": 1819,
+      "sha256_worktree": "8a10c200e6201d1da081966508fdfc51ebd1ab628442448b8b578fc008920c82"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/vehicle/VehicleEvent.kt",
+      "bytes": 718,
+      "sha256_worktree": "75825ada95bc9cb06d6616577a83f110aacc375c45379b3eeec11b4679a51dbe"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/vehicle/VehicleEventDto.kt",
+      "bytes": 2154,
+      "sha256_worktree": "2c93a4c3e302106140d94c0eed231aa82bc5cadd610e70837b896dfb1524ba7b"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/vehicle/VehicleEventSender.kt",
+      "bytes": 2766,
+      "sha256_worktree": "02290dab143b97f2e85011929b86340b2c40d35a2fe1e6e07647c23f9700f6dc"
+    },
+    {
+      "path": "app/src/main/java/com/example/gleo_type/vehicle/VehicleMonitor.kt",
+      "bytes": 5551,
+      "sha256_worktree": "94cd6102202133ef631bb1e94c8afacf5119523f9c5480dfbe39cfe89854bd11"
+    },
+    {
+      "path": "app/src/main/res/drawable/car_v10_next.xml",
+      "bytes": 262,
+      "sha256_worktree": "5e72e0cd837919982b1c1260e0c34cbcb03f0266dabb495147b0fdfae8a3021c"
+    },
+    {
+      "path": "app/src/main/res/drawable/car_v10_pause.xml",
+      "bytes": 259,
+      "sha256_worktree": "23fe48e77ea74d431e6b3e02f3a302bb8e2d4dfdf44afa16f132e832d262b2cc"
+    },
+    {
+      "path": "app/src/main/res/drawable/car_v10_play.xml",
+      "bytes": 247,
+      "sha256_worktree": "20c4fcf8deb3e69178a965d58001138dded57147151fabe4ead8cfdc59aa0903"
+    },
+    {
+      "path": "app/src/main/res/drawable/car_v10_previous.xml",
+      "bytes": 260,
+      "sha256_worktree": "ba3775dcab8f2f6b335a9cc3535572f446b512de6c07e2433c9f50dbad670aa4"
+    },
+    {
+      "path": "app/src/main/res/drawable/hearts_map_background.xml",
+      "bytes": 1338,
+      "sha256_worktree": "945fa9dfef17d9df2292144cdc9b1d7695a4cdfebb5f708e8ec438286f38ea1b"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_launcher_background.xml",
+      "bytes": 319,
+      "sha256_worktree": "e5b0bba395052b97949957aecbd9a4d5ff4de08547c7a9acd2f4fb0113039786"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_launcher_foreground.xml",
+      "bytes": 557,
+      "sha256_worktree": "ef219511df608eb88dff3726b86d384a9340feae1bada30e7de73c75c3559fcb"
+    },
+    {
+      "path": "app/src/main/res/font/asta_sans.ttf",
+      "bytes": 5771772,
+      "sha256_worktree": "f68410bf7d04deb992097758640145c72ddcf234070794237fc4994e18991c33"
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi/ic_launcher.xml",
+      "bytes": 348,
+      "sha256_worktree": "e7c073fbec1a51a73f678b266a1cb207aa6468e3ea1504d24f43591f31d2b7c5"
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi/ic_launcher_round.xml",
+      "bytes": 348,
+      "sha256_worktree": "e7c073fbec1a51a73f678b266a1cb207aa6468e3ea1504d24f43591f31d2b7c5"
+    },
+    {
+      "path": "app/src/main/res/values/aurora_colors.xml",
+      "bytes": 224,
+      "sha256_worktree": "7832ff2d6c5087173e5f34c84a3501edef314dd199aebf9e8aed05991476a80b"
+    },
+    {
+      "path": "app/src/main/res/values/colors.xml",
+      "bytes": 387,
+      "sha256_worktree": "31e0230ab2d96fa128a11705e85e590f3462745dc3c04bc851bc724a445921c1"
+    },
+    {
+      "path": "app/src/main/res/values/strings.xml",
+      "bytes": 73,
+      "sha256_worktree": "f5df663a2b592aa409655273d2db4a6a707704ebfc37e6c6cd9076c657062978"
+    },
+    {
+      "path": "app/src/main/res/values/themes.xml",
+      "bytes": 240,
+      "sha256_worktree": "42649b3607faebc03ef0b14c30545e9977929e3f741682fceb584101014a0ee9"
+    },
+    {
+      "path": "app/src/main/res/xml/automotive_app_desc.xml",
+      "bytes": 102,
+      "sha256_worktree": "ba433fb703161ec1629273a469c079449d8c99b9f69f08f903e008a8e0865027"
+    },
+    {
+      "path": "app/src/main/res/xml/backup_rules.xml",
+      "bytes": 490,
+      "sha256_worktree": "facaaef2162be6dd86544a819278042729ed481c38933a410651b81424da7ea7"
+    },
+    {
+      "path": "app/src/main/res/xml/data_extraction_rules.xml",
+      "bytes": 569,
+      "sha256_worktree": "940f48fb2ba4d9ec5a55671126796fefa71661c0a5d7b434dc1e9be23da41690"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ArchiveSyncContractTest.kt",
+      "bytes": 3492,
+      "sha256_worktree": "9b695f10327611413764375929fe1bd50289b95f117e3b0c4a50545619719eac"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/AudioAssetRegistryTest.kt",
+      "bytes": 2839,
+      "sha256_worktree": "a7b94e1918620191e5b534bc7f1d9e97af11bdb3d258e151a66254ade70fb702"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/CarV12VoiceStatusTest.kt",
+      "bytes": 1973,
+      "sha256_worktree": "e6e43b862bb8e0b182e283607735d5caede76014e936ea6fdcb3206fd71faea6"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ContextFusionRankingTest.kt",
+      "bytes": 11085,
+      "sha256_worktree": "9fe596bdbec57476643e073df6ae083bb726afa5a2376cda14408630664c26ca"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ContextSnapshotTest.kt",
+      "bytes": 8835,
+      "sha256_worktree": "c9a35f7c05167ab08160b3dfa299cd8e3e175efe6ecec0443bb5cf460a0938d0"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ExampleUnitTest.kt",
+      "bytes": 361,
+      "sha256_worktree": "b8cd63ac4fa0f3548a444aa2ee629a98db17941d69a815adf72ede3cd1d48c88"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/HeartMapProjectionTest.kt",
+      "bytes": 1035,
+      "sha256_worktree": "9da17c788a625620ad1a7bb8b68d37724095acbe3b96e54325925513b257aabb"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/KoreanMusicIntentTest.kt",
+      "bytes": 2486,
+      "sha256_worktree": "e7d2024e9954f99c18d474ad3d59b1b859fbf5a8580ad389f1ecb1aa1c84b9cf"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/OperationalContextRecommendationTest.kt",
+      "bytes": 7704,
+      "sha256_worktree": "674b212b7f0e154e16af83affd8170e9f9f732ecde3e9fbbe3a1e22c5d4b46b0"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/OperationalModelInstallTest.kt",
+      "bytes": 3750,
+      "sha256_worktree": "1902fe9772e66c1fe56603e861dcbc6445f1af8903e575368667f37060a75e52"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ReviewFilePairingTest.kt",
+      "bytes": 3589,
+      "sha256_worktree": "0b08bea8597201b9e826062c52d7e3c09127dcd4c317c05c847f771a1cbd6678"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ReviewTransferTest.kt",
+      "bytes": 4047,
+      "sha256_worktree": "126bab23c0b85f2e21ff9a8b8dd94349e82fc7e261206716741f2f4550253848"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/RuntimeHeartProjectionTest.kt",
+      "bytes": 2156,
+      "sha256_worktree": "9f2bbbb880a81bdc76b7b7aab06cd27aa5cb0284ce3688f1a3192656fdbfd44c"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/Step12ContextPersonalizationTest.kt",
+      "bytes": 13422,
+      "sha256_worktree": "b9cd8cf67280c9b918dcfe16dde3d7a0e92d2b72119023c0fee1be4d885e27a6"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/SyncFoundationTest.kt",
+      "bytes": 5236,
+      "sha256_worktree": "b6af8f8a66647dd599dd2bbf86a928a5af013a205cecd457741041f2b9b0f7ec"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/UiPersonalizationTest.kt",
+      "bytes": 7452,
+      "sha256_worktree": "9f606b44dd8af894fb98b14b28393b3fe94f0ff01048b15e921d1a90ce6765d6"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/V13ArchiveContractTest.kt",
+      "bytes": 1727,
+      "sha256_worktree": "842abaf354ed30865a24f788e34e80c422ba97df678085c29c45a04eb463c203"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/VoiceExecutionCoordinatorTest.kt",
+      "bytes": 2761,
+      "sha256_worktree": "0e7bd1edc82be1a9f267945e85ec54ad742356464d186d9fe22635139d11a9f0"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/event/EventPublisherFenceTest.kt",
+      "bytes": 2288,
+      "sha256_worktree": "68ddd86bdec82fece4f533fcc4fe93f0a53e0398a0ca3d39f51e34fc62cb6c80"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/event/EventTestSupport.kt",
+      "bytes": 6852,
+      "sha256_worktree": "37d07e3e16de5b89d96039d59096f2d412d9e3044fe59558f8f041e446927503"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/event/FormatAndJsonTest.kt",
+      "bytes": 4103,
+      "sha256_worktree": "e7b2ab3822a51304fe5c580f7ab534500c27922fc66baa8b7b747e9cce72c01d"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/event/ListeningQualityTest.kt",
+      "bytes": 5614,
+      "sha256_worktree": "eae9e0804683403c918cf3e461e2d962d7cebd6707b3516b10708c21ceef953d"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/event/MockEventSenderTest.kt",
+      "bytes": 4659,
+      "sha256_worktree": "848e04544887628eb43b0d29403c966eef61e539f19ab211b1eb73ddacb9c35e"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/event/MusicEventSerializationTest.kt",
+      "bytes": 6444,
+      "sha256_worktree": "44c56928c3f838dbe1cbd9fa3a825aa8c857e4051e552ba7b28c8012198b5c96"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/event/MusicSynchronizationTest.kt",
+      "bytes": 5547,
+      "sha256_worktree": "674d9d79b669f1dc27dc5dfc25cd5f6b7bad2c23e54adc5243e3ec1c040329cf"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/event/NaviEventSourceTest.kt",
+      "bytes": 16486,
+      "sha256_worktree": "2fde23bd405456f0291d274beeb59c070b13c7894dc55b38c5d7f92a552bb9e7"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/event/NavigationSerializationTest.kt",
+      "bytes": 5221,
+      "sha256_worktree": "f6fc3541e771a2d47d058941e41267d72d43299f55f162f88cb0e8338c7f5cd5"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/event/PersistentCollectionTest.kt",
+      "bytes": 6075,
+      "sha256_worktree": "1d055eba0f846c1bced06595424b27df6f312b22bea1a7f95026bad231ae0445"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/event/SourceTestHarness.kt",
+      "bytes": 2568,
+      "sha256_worktree": "da7608563cb1aa2a51a7bd266fc483e70dfdc0f0b90c8fd83d288dd7944f0444"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/event/SpeedTimestampValidationTest.kt",
+      "bytes": 7093,
+      "sha256_worktree": "fef7a251a3ecde2db97696929dcb465ad1f035c5bcc457e7ec47e3b365c09181"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/event/VehicleLocationSerializationTest.kt",
+      "bytes": 5991,
+      "sha256_worktree": "c189cd00225a7e6800cabe62661c962db7a37fcce8c256341a20618ffa92e38c"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/event/VehicleLocationSourceTest.kt",
+      "bytes": 10852,
+      "sha256_worktree": "2cbd821d0543d485fe478ccc9c46fa4e3c99fa653974abb418501806bed3e83f"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/internalfollowup/ExpressionEvidenceTest.kt",
+      "bytes": 3766,
+      "sha256_worktree": "727a6a831b9762ba1fb67b5b98a3c0d9c548aabd4496782b4ec45fe12e7936fe"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/internalfollowup/InternalAiTest.kt",
+      "bytes": 14992,
+      "sha256_worktree": "a5666cbe16fe99c2dd00671769a3d052d78849e5c983cdff847f1ebd6236f07c"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/internalfollowup/PeerSecurityTest.kt",
+      "bytes": 10644,
+      "sha256_worktree": "82e63eac177909ef75cab3faf299d954ccd783f04447ad12f6316bc7a3d58da1"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/internalfollowup/ProactiveAndSdkTest.kt",
+      "bytes": 4672,
+      "sha256_worktree": "621d4502a29d46a0380fc590fb84fe4c2837b6d63908ff6ec9984e07f302b6bf"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/realtime/MusicContextSynchronizerTest.kt",
+      "bytes": 8686,
+      "sha256_worktree": "0de24b90ccf9e16e2ec51f11c1f2c137751be831dd23f8bf4329e95dfe2e90ab"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/realtime/RealtimePipelineTest.kt",
+      "bytes": 10058,
+      "sha256_worktree": "98aa38ec9c7f828168b73c5412c5c3490215253aae7dd9ad6d1e395b8ad4cfd6"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/realtime/RealtimeSdkIntegrationTest.kt",
+      "bytes": 7102,
+      "sha256_worktree": "8d2a76df9672bdae555b8823aa92405700ea000a365bb923210e66c4b01ed5c4"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/recommendation/ClapRecommendationEngineTest.kt",
+      "bytes": 6979,
+      "sha256_worktree": "dd33a1d4710eaf514f0c7146a8cb7f55e872ecb74417cf97f50b13536ef7b378"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/recommendation/DrivingRecommendationTest.kt",
+      "bytes": 8013,
+      "sha256_worktree": "390ff6b5e2e3e8af23f25430190bfd0297d743020763b1b931c3b22e5bc5e9a5"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/recommendation/NaturalLanguageMusicRequestTest.kt",
+      "bytes": 3813,
+      "sha256_worktree": "aa2eb71cd8df9c383d90addb7d8a55fb52f87615c629ca16b0f8a7a5a23eb6dd"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ui/ArchiveProjectionTest.kt",
+      "bytes": 2512,
+      "sha256_worktree": "9440f8254fb29d31067a094b2cfc79fb63b3ac102870bc3c970b150887733a84"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ui/AuroraPolicyTest.kt",
+      "bytes": 1668,
+      "sha256_worktree": "45c400ea4bf1a9ff009b8dc9e811957bb61fe01206d02afaec5c1595b8fb0cbe"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ui/CarV10DraftTest.kt",
+      "bytes": 3564,
+      "sha256_worktree": "77551926d896cb067e590a276da20caad6a2e097775e14d0de39ed108dcedcca"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ui/HandheldSafetyBoundaryTest.kt",
+      "bytes": 640,
+      "sha256_worktree": "90053b70bd8fc350d363165064a67f0dfdf6a5b875e0178f21c876364d2735d7"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ui/HeartsReviewIntegrationTest.kt",
+      "bytes": 4629,
+      "sha256_worktree": "c519ef5a5b493dfe45f4ac568943d3056a46df443c4c4b6aeb8cc5872761c5f1"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ui/RecommendationExperienceTest.kt",
+      "bytes": 2282,
+      "sha256_worktree": "2a9d3ad25bccb935d557594ddbde5db4965692dba4b7b0aaa84367b07a443070"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ui/UiPolicyTest.kt",
+      "bytes": 1617,
+      "sha256_worktree": "25cbdb42a57d6cf9b2130ef3bcc56f1618616230d054ed3481b88caae20f69a8"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ui/app/CarMusicPresentationTest.kt",
+      "bytes": 3717,
+      "sha256_worktree": "696ff6c28245b5eeb1bc67d3729033fca1479d853d5fafe8772e7dd90af95db6"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ui/app/CarV10StateAdapterTest.kt",
+      "bytes": 2662,
+      "sha256_worktree": "368e591af84d0e11c08aa832491233b719517b6972f0228b8b16d14cb135342b"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ui/app/V13LiveProjectionTest.kt",
+      "bytes": 2199,
+      "sha256_worktree": "5bec663917ba8fbd2423e1068e57c42e20f9aa568254cc8064f5279734ff62a6"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/ui/gleohearts/GleoUiContractsTest.kt",
+      "bytes": 1110,
+      "sha256_worktree": "7d468c89c03e28605b190abda52f15495180985c00f4870b264b7fa449af6b8c"
+    },
+    {
+      "path": "app/src/test/java/com/example/gleo_type/vehicle/CarConnectionSupervisorTest.kt",
+      "bytes": 7483,
+      "sha256_worktree": "6613686932178b3a0d419d109540df600179ae3a14f89f97426df15e43e7d417"
+    },
+    {
+      "path": "app/src/test/resources/fixtures/location.json",
+      "bytes": 510,
+      "sha256_worktree": "19ac92f2ed852bfa92cf494a285b0467af9c606db373eb2146c99d2b05169e15"
+    },
+    {
+      "path": "app/src/test/resources/fixtures/music.json",
+      "bytes": 8900,
+      "sha256_worktree": "fdd2d320ac529e131ababd85d44c859435896307ccb4829e2b3a04b994f47184"
+    },
+    {
+      "path": "app/src/test/resources/fixtures/navigation.json",
+      "bytes": 4944,
+      "sha256_worktree": "18bb154fa8ef6e8478d2ac7113128ae1ed15f86f09da637482eae7f2d80bc69c"
+    },
+    {
+      "path": "app/src/test/resources/fixtures/vehicle.json",
+      "bytes": 3949,
+      "sha256_worktree": "d409c787a9431c5484a516bae8b5f8413a2eb2b6628f024550456f34dde1223e"
+    },
+    {
+      "path": "build.gradle.kts",
+      "bytes": 222,
+      "sha256_worktree": "e880745ee2746267059b8859c6028182f90c495d4b4b5cdfcf8acda9b23b4d5b"
+    },
+    {
+      "path": "docs/ASSETS.md",
+      "bytes": 1311,
+      "sha256_worktree": "cf7a432e1cddea68d977a36fb4030efa5fc3b6340c6260df73b04edb4d3297fa"
+    },
+    {
+      "path": "docs/ASSET_HASHES.json",
+      "bytes": 3270,
+      "sha256_worktree": "ab61154c29a3c6bea6f472d2f00cba422b281104946da533fdc0c7fe507edca7"
+    },
+    {
+      "path": "docs/EXPORT_SCOPE.md",
+      "bytes": 1105,
+      "sha256_worktree": "626cd3f6978c8406822e16c70f6b59041fda7856c925499b506cfd5c0ef5dc1a"
+    },
+    {
+      "path": "docs/TEST_SKIPS.md",
+      "bytes": 6401,
+      "sha256_worktree": "bef11d52e4257019ab7fe047a42a879fb0d0defeb28c9ec4c1ffc87f93935609"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 2422,
+      "sha256_worktree": "f75b2e52bc3a1ad67778569a19664b2af656ab5e94a9d2da2d2c3440084a1ed9"
+    },
+    {
+      "path": "docs/screenshots/calendar.png",
+      "bytes": 561981,
+      "sha256_worktree": "deb78f0ab9c0c5fdd14628fc80c46daeeaece9a23bfef00aac6a8dac1ffaea59"
+    },
+    {
+      "path": "docs/screenshots/car-ui-fixture.png",
+      "bytes": 308794,
+      "sha256_worktree": "e37e05687396ba901018a12194d67cb1ef60fd12234a5b524aeea720604ddebe"
+    },
+    {
+      "path": "docs/screenshots/hearts.png",
+      "bytes": 567316,
+      "sha256_worktree": "468a22035d89cb1e1d7dc1e28a00eb78c98ec966fda24ac4413ddef34b2b29cd"
+    },
+    {
+      "path": "docs/screenshots/home.png",
+      "bytes": 321339,
+      "sha256_worktree": "bd3417c2ef5d593167ad903d9764ef927f70d95bec7d608008740466e780a971"
+    },
+    {
+      "path": "docs/screenshots/music.png",
+      "bytes": 576271,
+      "sha256_worktree": "9dc68acb2fe80873171673709b03cd027724dc5b7b2ec2576d7947a1e70ab7af"
+    },
+    {
+      "path": "docs/screenshots/my.png",
+      "bytes": 511909,
+      "sha256_worktree": "5fced7ebd58d31b837d41d7322d408127e89768cd8c006a8c9ef399b5d8f5e94"
+    },
+    {
+      "path": "gradle.properties",
+      "bytes": 1138,
+      "sha256_worktree": "bb09346b8c1e920223864ade57029bd6e44a95b6c84539974f053b9da9119285"
+    },
+    {
+      "path": "gradle/gradle-daemon-jvm.properties",
+      "bytes": 1150,
+      "sha256_worktree": "0c1930722202bec01874360fcb8f1272c84cba9fd8f4a99c86858af1671fe39e"
+    },
+    {
+      "path": "gradle/libs.versions.toml",
+      "bytes": 1780,
+      "sha256_worktree": "b86992459423ac5cbaa9e0f8235a7c7ba73072a0430e4bd6030a02c406c10440"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "bytes": 45457,
+      "sha256_worktree": "76805e32c009c0cf0dd5d206bddc9fb22ea42e84db904b764f3047de095493f3"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "bytes": 378,
+      "sha256_worktree": "a40ac0e61510e195488363b713b79ffee6ef45d29589d96b0ad1e34e2be54800"
+    },
+    {
+      "path": "gradlew",
+      "bytes": 8728,
+      "sha256_worktree": "3238afb2aed5cb16eb7d6718077e7138059108f007b54179e9cc157c5a6e0e89"
+    },
+    {
+      "path": "gradlew.bat",
+      "bytes": 2937,
+      "sha256_worktree": "1d297e00bd21de3ace22b4d7f2de1f9dfa858883d66bbf7c1ccbecccec8f4f3b"
+    },
+    {
+      "path": "settings.gradle.kts",
+      "bytes": 811,
+      "sha256_worktree": "98330ca6f585cf246db9b78818093ca89a54a9bc6ba312207997bbd50b4a28a0"
+    },
+    {
+      "path": "third_party/gradle-wrapper-LICENSE.txt",
+      "bytes": 10174,
+      "sha256_worktree": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+    },
+    {
+      "path": "tools/check_public_tree.py",
+      "bytes": 1508,
+      "sha256_worktree": "c9da583d2ad27086fb91e55c2f0b490e33db97d6601b88669ae7d5b144fb4f21"
+    }
+  ]
+}

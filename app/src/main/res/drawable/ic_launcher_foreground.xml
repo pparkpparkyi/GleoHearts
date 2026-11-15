@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Project artwork: an audio note, not an official Hyundai/Gleo logo. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="@color/aurora_lavender" android:pathData="M48,30L77,24L77,64C77,71 71,76 64,76C57,76 52,72 52,66C52,60 58,55 65,55C67,55 69,55 71,56L71,37L54,41L54,72C54,79 48,84 41,84C34,84 29,80 29,74C29,68 35,63 42,63C44,63 46,63 48,64Z" />
+</vector>
